@@ -27,6 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install argparse
+        pip install dill
         pip install PyYAML
         pip install pybboxes
         pip install opencv-python
