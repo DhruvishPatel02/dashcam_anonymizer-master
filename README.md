@@ -4,6 +4,22 @@ This repository blurs human faces and license plates in images using YOLOv8 as t
 
 Further more for testing and purposes, the real life data is collected from https://idd.insaan.iiit.ac.in/.
 
+## Sample Input / Output
+
+<img src = "images/inpainted_128_frame_574.png" width = "300">
+
+<img src = "blurred_images/inpainted_128_frame_574_blurred.jpg" width = "300">
+
+<hr>
+<img src = "images/inpainted_128_frame_573.png" width = "300">
+
+<img src = "blurred_images/inpainted_128_frame_573_blurred.jpg" width = "300">
+
+<hr>
+<img src = "images\inpainted_1361_frame_311.png" width = "300">
+
+<img src = "blurred_images\inpainted_1361_frame_311_blurred.jpg" width = "300">
+
 ## To run the repository
 
 1. First git clone the repository.
