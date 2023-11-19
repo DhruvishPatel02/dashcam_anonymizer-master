@@ -1,4 +1,4 @@
-# dashcam_anonymizer-master
+# Dashcam Anonymizer
 
 This repository blurs human faces and license plates in images using YOLOv8 as the object detection model and is fine tuned on data from https://storage.googleapis.com/openimages/web/index.html.
 
